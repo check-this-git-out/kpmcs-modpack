@@ -1970,6 +1970,11 @@ hash = "e2b28289648a9702b8a70388c658b895263a195175930974f6b95173f9a1fd12"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pack.png-panorama-with-shaders.pw.toml"
+hash = "3a926669fd06d14ba6748afaad9ef493416cd53fd010e533202e9b950490a8de"
+metafile = true
+
+[[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
 hash = "e440e7eec5ae938fb98cfd57a91122259d8c99117e09afa03edf937f32cfb618"
 metafile = true
