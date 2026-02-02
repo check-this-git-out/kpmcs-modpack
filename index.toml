@@ -1696,7 +1696,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "75cb9531752b63b8be2d1993363ad33f4c2100843b00d2d7534dfddc5f346fa2"
+hash = "3722f897bd3519b3bcf1bbb27eb26aa36ac9a581520056859d1ff1c931f3cbcc"
 metafile = true
 
 [[files]]
@@ -1826,7 +1826,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
-hash = "843177f707021c67a78e2b2561966643f770032ec08e0dbd850397a4dd6b97dd"
+hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
 metafile = true
 
 [[files]]
