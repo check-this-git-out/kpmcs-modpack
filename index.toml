@@ -1890,21 +1890,6 @@ hash = "e2acfcaa7f67cf8ced5e77bac3006b65d919f29f3a19479a8034c9077708f683"
 metafile = true
 
 [[files]]
-file = "resourcepacks/clear-glass-pack.pw.toml"
-hash = "a2c3ee14115cff3f69ffb74974fffe36dae7499cf4fbacac1e3be6932f96b6c1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/detailed-animations.pw.toml"
-hash = "282c2cd8480e3a7d2c97baed1c36584eaa7b583c3f0db8ee4e26f2b439f07f4c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-villagers-x-fresh-animations.pw.toml"
-hash = "31bdeb187a51b004650ba4bdb71e38dd555e968fd1cfd53a2bc97debfe15a244"
-metafile = true
-
-[[files]]
 file = "resourcepacks/extra-flowery-gui.pw.toml"
 hash = "c10303617c1974212157c3fce8d1b786011eba2e40fd347b04c64b92e9c30915"
 metafile = true
@@ -1917,11 +1902,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "3742efd536b417560395d9aab9643e2a97c105a60fd7f37c9a825024c7479359"
 metafile = true
 
 [[files]]
