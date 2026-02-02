@@ -1,0 +1,16 @@
+name = "Extra Flowery GUI"
+filename = "Extra Flowery GUI.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9defe9402e2bc17acb8d65c6c9be02d043ceface"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6102638
+project-id = 1114790
+
+[option]
+optional = true

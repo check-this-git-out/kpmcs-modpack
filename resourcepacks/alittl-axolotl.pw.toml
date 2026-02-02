@@ -1,0 +1,13 @@
+name = "Alittl Axolotl & Friends- Animated 3D bucket friends! [Java Version]"
+filename = "Alittle_Axolotl_[6.1].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04faba001aad93b9007cd83821be80b92bf2f47b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4592430
+project-id = 495032

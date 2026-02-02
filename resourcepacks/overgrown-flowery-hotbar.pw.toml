@@ -1,0 +1,13 @@
+name = "Overgrown Flowery Hotbar"
+filename = "Overgrown Flowery Hotbar.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39f98e6210ca27db595d109807d0e540179876d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6081279
+project-id = 889649

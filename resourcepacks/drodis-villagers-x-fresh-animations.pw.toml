@@ -1,0 +1,13 @@
+name = "Drodi's Villagers x Fresh Animations"
+filename = "§2Drodi's Villagers FA [V2.8.2] - 1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d26bad9e780d8a30be8febcd9042e8bc7eab1798"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6610964
+project-id = 1201858

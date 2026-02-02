@@ -1,0 +1,13 @@
+name = "Gray's Mob Overhaul x Fresh Animations"
+filename = "Fresh Mob Overhaul v3.5 1.19-1.20.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1485a8e9d72664efc56692b7d8d5bab60e448c80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5684051
+project-id = 1062860

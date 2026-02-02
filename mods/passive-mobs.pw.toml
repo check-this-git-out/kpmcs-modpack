@@ -1,0 +1,13 @@
+name = "Passive Mobs"
+filename = "PassiveMobs-forge-1.20.1-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0a9e45885904226012af7cfa53e66ce2e307af0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4627523
+project-id = 469811

@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint:D:15659:1:3309:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:15647:4:3312:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:15060:-22:3337:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:Twilight Portal Home:T:14786:9:1559:6:false:0:gui.xaero_default:false:0:0:false

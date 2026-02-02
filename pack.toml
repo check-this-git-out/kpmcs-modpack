@@ -1,0 +1,11 @@
+name = "kpmcs forge client 8-9-25"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6bdd1275a5588ef4bd5e6f55c89641d6fe07b014735cbd300b86c8437c450218"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"

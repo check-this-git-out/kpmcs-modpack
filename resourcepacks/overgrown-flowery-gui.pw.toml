@@ -1,0 +1,13 @@
+name = "Overgrown Flowery GUI"
+filename = "Overgrown Flowery GUI.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e0a686c5ff81046f3056dc95a1c5646c2c3c405"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6102487
+project-id = 627173

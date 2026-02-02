@@ -1,0 +1,13 @@
+name = "Biomes Wandering Traders with Fresh Animations"
+filename = "Wandering Traders Biomes FA 1.21.8 - 1.20.x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c72f4c4358fd1cc5804ac5542aa395a715e0a331"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7306568
+project-id = 980001

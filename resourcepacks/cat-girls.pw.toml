@@ -1,0 +1,16 @@
+name = "Cat Girls"
+filename = "Cat Girls v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cddf4f74e04ba8744816588fce29aee5061a9ca5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5840397
+project-id = 1127159
+
+[option]
+optional = true

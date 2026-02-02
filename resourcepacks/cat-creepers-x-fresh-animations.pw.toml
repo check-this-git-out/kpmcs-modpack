@@ -1,0 +1,13 @@
+name = "Cat Creepers x Fresh Animations"
+filename = "Fresh CatCreeper 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e89b2731c0f3d0622cbcb7357997436aed9e4bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5654871
+project-id = 1089180

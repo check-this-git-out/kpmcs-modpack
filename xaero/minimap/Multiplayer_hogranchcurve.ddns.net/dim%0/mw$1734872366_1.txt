@@ -1,0 +1,17 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:ribbit!:r:2420:71:-3043:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Madlorizur:M:2240:93:-2864:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:flower patch mountain:f:-5184:154:-7496:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Noisy Neighbors:N:-5057:69:-13831:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:brb:b:2842:70:-1273:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:waystone here and come back later:w:2900:73:-1506:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tiny Village:T:1835:70:-2097:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:lets give this a try:l:2514:116:-3365:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:End Portal:E:1284:28:626:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:New Home Base I Guess:N:-1000:206:2157:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Rasormur:R:-3253:102:-1833:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Meadowside:M:-231:99:-658:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:MeadowSide:M:-272:66:-599:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:MeadowSide:M:-275:70:-621:13:false:0:gui.xaero_default:false:0:0:false

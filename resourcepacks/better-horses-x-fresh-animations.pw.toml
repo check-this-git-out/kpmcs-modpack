@@ -1,0 +1,13 @@
+name = "Better Horses x Fresh Animations"
+filename = "Fresh Better Horses v1.0 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1133b021347bf1982cf3e540c558e41cc706c790"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5654860
+project-id = 1089178

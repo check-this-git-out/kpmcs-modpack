@@ -1,0 +1,13 @@
+name = "Gray's Mob Overhaul"
+filename = "Gray's Mob Overhaul v11.3 1.19-1.20.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "095c53ce094f59d1b1cf6a0b9bc82675fc35c705"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5599568
+project-id = 871203

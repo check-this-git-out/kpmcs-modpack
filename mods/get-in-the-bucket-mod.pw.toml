@@ -1,0 +1,13 @@
+name = "Get In The Bucket Mod"
+filename = "getinthebucketmod-4.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfff4df5e2d2a33f1c3b0cfc56c282179dc18734"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4579257
+project-id = 345984
