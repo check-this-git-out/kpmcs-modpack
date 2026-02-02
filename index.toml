@@ -1925,16 +1925,6 @@ hash = "3742efd536b417560395d9aab9643e2a97c105a60fd7f37c9a825024c7479359"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-flowers-and-plants.pw.toml"
-hash = "fd0b6938c5e44a8fa08f1549d159cad9f517db640455188c40fe83fd6f2692ab"
-metafile = true
-
-[[files]]
 file = "resourcepacks/grays-mob-overhaul-x-fresh-animations.pw.toml"
 hash = "fa1a07ed69a5071a898a5ceb4c695acafc882531c322ec8514c1d38551b1395b"
 metafile = true
@@ -1942,11 +1932,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/grays-mob-overhaul.pw.toml"
 hash = "dd60106f5d76df4d2fedd5bd77edd681ef7224d924cfb30fac19240dcc17e4cf"
-metafile = true
-
-[[files]]
-file = "resourcepacks/lanostryjourney.pw.toml"
-hash = "132280d9f4b7ca1ab48d831c4827c1afedc66adade4d1e774674fc23161a75b1"
 metafile = true
 
 [[files]]
@@ -1967,16 +1952,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/overgrown-flowery-hotbar.pw.toml"
 hash = "e2b28289648a9702b8a70388c658b895263a195175930974f6b95173f9a1fd12"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pack.png-panorama-with-shaders.pw.toml"
-hash = "3a926669fd06d14ba6748afaad9ef493416cd53fd010e533202e9b950490a8de"
-metafile = true
-
-[[files]]
-file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "e440e7eec5ae938fb98cfd57a91122259d8c99117e09afa03edf937f32cfb618"
 metafile = true
 
 [[files]]
