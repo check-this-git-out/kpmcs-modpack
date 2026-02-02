@@ -1695,11 +1695,6 @@ hash = "d6308a8a013f6e8c129d01acbb906e7c916738bc58e24bfa53ec1a1c05783ae1"
 metafile = true
 
 [[files]]
-file = "mods/particular-reforged.pw.toml"
-hash = "3722f897bd3519b3bcf1bbb27eb26aa36ac9a581520056859d1ff1c931f3cbcc"
-metafile = true
-
-[[files]]
 file = "mods/passive-mobs.pw.toml"
 hash = "c06f465bc7425ce1af800b74fa92360d6c3352b9a4622f3335812202de12cdc1"
 metafile = true
@@ -1822,11 +1817,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5dbc1ed70c1dd5c99c93d353b6267c6a4e7af2b342d0ad4ddecf54593e199224"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
-hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
 metafile = true
 
 [[files]]
