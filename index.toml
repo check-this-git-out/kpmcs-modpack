@@ -1480,11 +1480,6 @@ hash = "73ddf3a0c3c88b91fcf94d0e188ced440f22d563d9aa566af206b4cd464e890a"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "405c6f9447f29e70146c7c75bd968c91091afb692513473b7454aedaeea12f20"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
@@ -1875,18 +1870,8 @@ hash = "cb5f234ece252abc0851d67b36b0da86e0f444e01f031ce9c5608825c746b29c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/biomes-wandering-traders-with-fresh-animations.pw.toml"
-hash = "55b1de05214d77d4ecd3d8c4aee9bfd53b4e3b496cf5c75cface2bf4c39e4cb4"
-metafile = true
-
-[[files]]
 file = "resourcepacks/cat-creepers-x-fresh-animations.pw.toml"
 hash = "1c90a753ca8ea3cc5b2e113180e970d192510bc03934af0716e959d743b07d9f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cat-girls.pw.toml"
-hash = "e2acfcaa7f67cf8ced5e77bac3006b65d919f29f3a19479a8034c9077708f683"
 metafile = true
 
 [[files]]
