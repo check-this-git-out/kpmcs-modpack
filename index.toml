@@ -1596,7 +1596,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+hash = "3e3a275ab58bd1939d2eebe22095b5db265e33716113ebdee659a78d392b6072"
 metafile = true
 
 [[files]]
@@ -1695,11 +1695,6 @@ hash = "d6308a8a013f6e8c129d01acbb906e7c916738bc58e24bfa53ec1a1c05783ae1"
 metafile = true
 
 [[files]]
-file = "mods/origins-forge.pw.toml"
-hash = "64e08f70c1c4c40428aff7417668f836d0c2b2c59038d5f935c0455a6f22c87e"
-metafile = true
-
-[[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "75cb9531752b63b8be2d1993363ad33f4c2100843b00d2d7534dfddc5f346fa2"
 metafile = true
@@ -1721,7 +1716,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainboows.pw.toml"
-hash = "05238d13ba6a63246decdfe4eac969616b5ecef85724da2d5f4d3b98a6f9c64f"
+hash = "bb477e809183ff55b3e01cc266189f8d10d76e1b783b00841f1753557929d37f"
 metafile = true
 
 [[files]]
